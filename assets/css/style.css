@@ -1,0 +1,18 @@
+html, body {
+	height: 100%
+    
+}
+body{
+	font-family: 'Roboto', sans-serif;
+    background: url(../images/backgrounds/patagonia1.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.header {
+    font-size: 100px;
+    background-color: transparent;
+    color: #2C4448;
+}
