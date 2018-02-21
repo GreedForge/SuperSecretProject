@@ -1,0 +1,22 @@
+{
+  "name": "meganswebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaffeJoseph/SuperSecretProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaffeJoseph/SuperSecretProject/issues"
+  },
+  "homepage": "https://github.com/JaffeJoseph/SuperSecretProject#readme",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
